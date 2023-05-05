@@ -8,8 +8,11 @@ Setup:
 1. Copy .env.example as .env and fill out the variables. No quotes are needed.
 2. Run the following commands
 
+Install the virtual env manager if you don't have it:
+
 python3 -m pip install virtualenv 
-# if you don't have it already
+
+Setup:
 
 python3 -m virtualenv .venv
 
